@@ -1,4 +1,4 @@
-# Education Statistics Proje (Eğitim İstatistikleri)
+# Education Statistics
 
 # 📌 Projenin Amacı
 Dünya Bankası EdStats All Indicator Query, eğitim erişimini, ilerlemeyi, tamamlamayı, okuryazarlığı, öğretmenleri, nüfusu ve harcamaları tanımlayan 4.000'den fazla uluslararası olarak karşılaştırılabilir göstergeye sahiptir. Göstergeler, okul öncesinden mesleki ve üçüncül eğitime kadar eğitim döngüsünü kapsar.
